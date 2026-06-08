@@ -1,0 +1,10 @@
+mediapipe>=0.10.35
+opencv-python>=4.10
+torch>=2.4
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+gradio>=4.40
+matplotlib>=3.9
+pillow>=10.4
+tqdm>=4.66
